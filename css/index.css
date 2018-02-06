@@ -1,0 +1,14 @@
+@import "reset.css";
+
+.user-list li {
+  max-width: 320px;
+  background: #d83502e3;
+  margin: 4px;
+  box-sizing: border-box;
+  padding: 4px;
+  color: #fff;
+  font-family: Arial;
+  font-size: 14px;
+  text-align: center;
+      cursor: move;
+}
